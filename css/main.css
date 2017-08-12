@@ -1,0 +1,30 @@
+@import url(reset.css);
+
+body{
+	font-family: Roboto, sans-serif;
+	font-size: 18px;
+}
+
+.conteiner-header{
+	background: #eee;
+}
+
+.conteiner-features{
+	background: #eee;
+}
+
+.main-menu{
+	float: right;
+}
+
+a{
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 14px;
+	color: #000;
+}
+
+li{
+	float: left;
+}
+
